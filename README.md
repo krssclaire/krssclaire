@@ -1,5 +1,7 @@
-### Hi there 👋
+#### About
 
+* Currently studying JavaScript for JS Fullstack Dev [Curriculum](https://www.theodinproject.com/paths/full-stack-javascript)
+* Certainly drinking to much coffee at once ☕
 <!--
 **krssclaire/krssclaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
