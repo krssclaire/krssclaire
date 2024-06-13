@@ -1,6 +1,6 @@
 💻 Amateur JS developer  
 ☕ Certainly drinking to much coffee   
-📖 Currently following JS Fullstack Dev path at [TOP](https://www.theodinproject.com/paths/full-stack-javascript)  
+📖 Currently following JS Fullstack Dev path at [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)  
 🍃 Nature's lover 
 
 
