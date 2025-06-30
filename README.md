@@ -1,8 +1,28 @@
+📖 Economics and Business Management uni student
+💻 Data Analytics for business enthusiast
+☕ Certainly drinking to much coffee   
+🍃 Nature's lover 
+💬 Started this account as an amateur JS developer following JS Fullstack Dev path at [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) (you might find old web dev projects among my repos) 
+
+
+### Tools I use 
+
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)]
+![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+<!-- JS dev 
 💻 Amateur JS developer  
 ☕ Certainly drinking to much coffee   
 📖 Currently following JS Fullstack Dev path at [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)  
 🍃 Nature's lover 
-
 
 ### Tech I use
 
@@ -21,7 +41,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<!--
+
 **krssclaire/krssclaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
