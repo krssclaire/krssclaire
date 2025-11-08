@@ -2,7 +2,7 @@
 💻 Data and Finance Analytics enthusiast (currently working on mini-projects)
 ☕ Certainly drinking too much coffee  
 🍃 Nature's lover  
-🏔️ Based in Italian Alps
+🏔️ Based in Italian Alps  
 💬 Started this account as an amateur JS developer following JS Fullstack Dev path at [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) (you might find old web dev projects among my repos)  
 
 
