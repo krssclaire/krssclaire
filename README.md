@@ -1,5 +1,5 @@
-📖 Economics and Business Management uni student 
-💻 Data and Finance Analytics enthusiast (currently working on mini-projects)
+📖 Economics and Business Management uni student  
+💻 Data and Finance Analytics enthusiast (currently working on mini-projects)  
 ☕ Certainly drinking too much coffee  
 🍃 Nature's lover  
 🏔️ Based in Italian Alps  
