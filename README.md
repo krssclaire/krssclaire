@@ -1,3 +1,5 @@
+# Hi, I'm Kristel
+And I am an...  
 📖 Economics and Business Management uni student  
 💻 Data and Finance Analytics enthusiast (currently working on mini-projects)  
 ☕ Certainly drinking too much coffee  
