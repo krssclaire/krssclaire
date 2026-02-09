@@ -1,6 +1,6 @@
 # Kristel Claire Juglair
 Economics & Business Management student | Aspiring Data / Business Analyst  
-📍 Italy | 🎓 University of Valle d’Aosta
+📍 Aosta, Italy | 🎓 Università della Valle d'Aosta
 
 ## About me
 I am an Economics and Business Management student with a strong interest in data-driven decision making.  
@@ -12,21 +12,25 @@ I am currently seeking a **curricular internship** where I can apply data analys
 - **SQL**: querying relational datasets, joins, aggregations, window functions   
 - **Excel**: advanced analysis, Power Query, business dashboards, pivot tables    
 - **Power BI**: data modeling, ETL, interactive dashboards, business insights  
-- **Statistics & Econometrics**: regression analysis, interpretation of results  
+- **Statistics & Econometrics**: regression analysis, interpretation of results | OLS  
 
 ## Selected projects
 - **Marketing Campaigns Performance Analysis**  
   Analysis of marketing campaigns to evaluate engagement, conversion rates and investment effectiveness, with actionable business insights.  
-  *Tools: Python*
+  **Tools**: Excel | PowerBI | Power Query | Power Point  
+  *Repository: [marketing-campaigns-performance-analysis](https://github.com/krssclaire/bcgx-campaigns-performance-analysis)*
 - **Zara Sales EDA**  
   Exploratory data analysis of Zara sales data with a business-oriented dashboard.  
-  *Tools: Excel, Power Query, Power BI*
-- **Portfolio Theory – Defense Shares Study**  
+  **Tools**: Excel | Power Query | Power BI | Power Point  
+  *Repository: [zara-sales-retail-analysis](https://github.com/krssclaire/zara-sales-EDA)*
+- **Portfolio Theory - Defense Shares Study**  
   Application of Markowitz’s Portfolio Theory to analyze risk and return of a defense-focused portfolio during periods of geopolitical tension.  
-  *Tools: Python, Jupyter Notebook*
-- **Regression Model – Exam Stress Study**  
+  **Tools**: Python | Jupyter Notebook | Microsoft Word  
+  *Repository: [defense-portfolio-analysis-mvp](https://github.com/krssclaire/portfolio-theory-defense-shares-study)*
+- **Regression Model - Exam Stress Study**  
   University econometrics project analyzing the relationship between perceived stress levels and academic variables using regression techniques.  
-  *Tools: Python, Jupyter Notebook*
+  *Tools: Python | Jupyter Notebook | Excel OLS models  
+  *Repository: [exam-stress-reression-model](https://github.com/krssclaire/regression-model-exams-stress-study)*
 
 ## Background
 I originally started my GitHub journey following a Full Stack JavaScript path ([The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)).  
@@ -34,7 +38,7 @@ Some earlier repositories reflect this learning phase and document my transition
 
 ## Contact
 - [LinkedIn](www.linkedin.com/in/kristel-claire-juglair)
-- Email: [kristelclaire.02@gmail.com](kristelclaire.02@gmail.com)
+- Email: kristelclaire.02@gmail.com
 
 
 <!-- Friendly README
