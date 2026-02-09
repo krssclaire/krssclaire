@@ -37,7 +37,7 @@ I originally started my GitHub journey following a Full Stack JavaScript path ([
 Some earlier repositories reflect this learning phase and document my transition toward data analytics.
 
 ## Contact
-- [LinkedIn](www.linkedin.com/in/kristel-claire-juglair)
+- [LinkedIn](https://www.linkedin.com/in/kristel-claire-juglair/)
 - Email: kristelclaire.02@gmail.com
 
 
