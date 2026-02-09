@@ -1,3 +1,43 @@
+# Kristel Claire Juglair
+Economics & Business Management student | Aspiring Data / Business Analyst  
+📍 Italy | 🎓 University of Valle d’Aosta
+
+## About me
+I am an Economics and Business Management student with a strong interest in data-driven decision making.  
+I work on analytical projects focused on finance, marketing and business performance, using real and simulated datasets and quantitative methods.  
+I am currently seeking a **curricular internship** where I can apply data analysis tools to real-world business problems and continue growing in a structured, professional environment.
+
+## Technical skills
+- **Python**: data analysis, exploratory analysis, regression models, visualization  
+- **SQL**: querying relational datasets, joins, aggregations, window functions   
+- **Excel**: advanced analysis, Power Query, business dashboards, pivot tables    
+- **Power BI**: data modeling, ETL, interactive dashboards, business insights  
+- **Statistics & Econometrics**: regression analysis, interpretation of results  
+
+## Selected projects
+- **Marketing Campaigns Performance Analysis**  
+  Analysis of marketing campaigns to evaluate engagement, conversion rates and investment effectiveness, with actionable business insights.  
+  *Tools: Python*
+- **Zara Sales EDA**  
+  Exploratory data analysis of Zara sales data with a business-oriented dashboard.  
+  *Tools: Excel, Power Query, Power BI*
+- **Portfolio Theory – Defense Shares Study**  
+  Application of Markowitz’s Portfolio Theory to analyze risk and return of a defense-focused portfolio during periods of geopolitical tension.  
+  *Tools: Python, Jupyter Notebook*
+- **Regression Model – Exam Stress Study**  
+  University econometrics project analyzing the relationship between perceived stress levels and academic variables using regression techniques.  
+  *Tools: Python, Jupyter Notebook*
+
+## Background
+I originally started my GitHub journey following a Full Stack JavaScript path ([The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)).  
+Some earlier repositories reflect this learning phase and document my transition toward data analytics.
+
+## Contact
+- [LinkedIn](www.linkedin.com/in/kristel-claire-juglair)
+- Email: [kristelclaire.02@gmail.com](kristelclaire.02@gmail.com)
+
+
+<!-- Friendly README
 # Hi, I'm Kristel
 And I am...  
 📖 Economics and Business Management uni student  
@@ -6,24 +46,7 @@ And I am...
 🍃 Nature's lover  
 🏔️ Based in Italian Alps  
 💬 Started this account as an amateur JS developer following JS Fullstack Dev path at [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) (you might find old web dev projects among my repos)  
-
-
-### Tools I use 
-![Google](https://img.shields.io/badge/google-4285F4?logo=google&logoColor=white) 
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff) 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
-
-### Environment
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) 
-![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white) 
-
-### Libraries
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff) 
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white) 
-
-
+-->
 <!-- JS dev 
 💻 Amateur JS developer  
 ☕ Certainly drinking to much coffee   
