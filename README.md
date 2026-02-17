@@ -5,7 +5,7 @@ Economics & Business Management student | Aspiring Data / Business Analyst
 ## About me
 I am an Economics and Business Management student with a strong interest in data-driven decision making.  
 I work on analytical projects focused on finance, marketing and business performance, using real and simulated datasets and quantitative methods.  
-I am currently seeking a **curricular internship** where I can apply data analysis tools to real-world business problems and continue growing in a structured, professional environment.
+I am currently seeking a **curricular internship** where I can apply data analysis tools to real-world business problems and continue growing in a structured, professional environment.  
 
 ## Technical skills
 - **Python**: data analysis, exploratory analysis, regression models, visualization  
@@ -34,7 +34,8 @@ I am currently seeking a **curricular internship** where I can apply data analys
 
 ## Background
 I originally started my GitHub journey following a Full Stack JavaScript path ([The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)).  
-Some earlier repositories reflect this learning phase and document my transition into data analytics.
+Some earlier repositories reflect this learning phase and document my transition into data analytics.  
+_Currently learning_: [Python for automation](https://automatetheboringstuff.com/)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/kristel-claire-juglair/)
