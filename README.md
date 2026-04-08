@@ -1,18 +1,17 @@
 # Kristel Claire Juglair
-Economics & Business Management student | Aspiring Data / Business Analyst  
+Economics & Business Management undergraduate | Data Analysis
 📍 Aosta, Italy | 🎓 UniVdA - University of Valle d'Aosta
 
 ## About me
 I am an Economics and Business Management student with a strong interest in data-driven decision making.  
-I work on analytical projects focused on finance, marketing and business performance, using real and simulated datasets and quantitative methods.  
-I am currently seeking a **curricular internship** where I can apply data analysis tools to real-world business problems and continue growing in a structured, professional environment.  
+I work on analytical projects focused on finance, marketing and strategy performance, using real and simulated datasets and quantitative methods.   
 
 ## Technical skills
 - **Python**: data analysis, exploratory analysis, regression models, visualization  
 - **SQL**: querying relational datasets, joins, aggregations, basic window functions   
 - **Excel**: advanced analysis, Power Query, business dashboards, pivot tables    
 - **Power BI**: data modeling, Power Query (ETL), interactive dashboards, business insights  
-- **Statistics & Econometrics**: regression analysis, interpretation of results, OLS regression  
+- **Statistics & Econometrics**: optimization models, interpretation of results, OLS regression 
 
 ## Selected projects
 - **Marketing Campaigns Performance Analysis**  
