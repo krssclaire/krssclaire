@@ -1,5 +1,5 @@
 # Kristel Claire Juglair
-Economics & Business Management undergraduate | Data Analysis
+Economics & Business Management undergraduate | Data Analysis  
 📍 Aosta, Italy | 🎓 UniVdA - University of Valle d'Aosta
 
 ## About me
